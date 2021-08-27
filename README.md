@@ -1,0 +1,5 @@
+- 🐝 Hi, I’m @deadnettlez
+- 🐸 I’m interested in Krita Animation, Ardour DAWediting, SooperLooper
+- 🌱 I’m currently learning Emacs Lisp
+- 🔬 I’m looking to collaborate on illustrations, GIFS, NFTs
+- 🍊 How to reach me send email dead@nettlez.net with a short description of your project and your phone number and best time to chat. 
